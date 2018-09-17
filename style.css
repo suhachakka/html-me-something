@@ -1,0 +1,144 @@
+body{
+    background-color: greenyellow;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 0px;
+
+}
+main{
+    background-color: rgb(222, 209, 135);
+    border: 90px solid rgb(181, 245, 179);
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top:0px;
+    
+}
+
+.article{
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    margin-right: 20px;
+}
+.title{
+    font-size:30px;
+    font-style:oblique;
+    text-align: center;
+}
+
+h1{
+    color: brown;
+     font-size: 30px;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-bottom: 10px;
+    padding-top: 0px;
+    margin-top: 0px;
+    background-color: rgb(127, 255, 244);
+    margin-bottom: 0px;
+}
+img{
+    width:100%; 
+    max-width: 100%;
+    margin-top: 0px;
+    margin-bottom:0%;
+}
+.wonder1{
+    font-style: oblique;
+    border: 30px solid rgb(0, 225, 255);
+    background-color: rgb(0, 255, 115);
+    padding-top:10px;
+    margin:1px;
+    padding-bottom:10px;
+    padding-left: 20px;
+    padding-right: 10x;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.wonder2{
+    font-style: oblique;
+    border: 30px solid rgb(238, 255, 0);
+    background-color: rgb(0, 162, 255);
+    padding-top:10px;
+    margin:1px;
+    padding-bottom:10px;
+    padding-left: 20px;
+    padding-right: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.wonder3{
+    font-style: oblique;
+    border: 30px solid rgb(255, 0, 98);
+    background-color: rgb(0, 174, 255);
+    padding-top:10px;
+    margin:1px;
+    padding-bottom:10px;
+    padding-left: 20px;
+    padding-right: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.wonder4{
+    font-style: oblique;
+    border: 30px solid rgb(255, 0, 170);
+    background-color: rgb(145, 255, 0);
+    padding-top:10px;
+    margin:1px;
+    padding-bottom:10px;
+    padding-left: 20px;
+    padding-right: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.wonder5{
+    font-style: oblique;
+    border: 30px solid aquamarine;
+    background-color:grey;
+    padding-top:10px;
+    margin:1px;
+    padding-bottom:10px;
+    padding-left: 20px;
+    padding-right: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.wonder6{
+    font-style: oblique;
+    border: 30px solid plum;
+    background-color: rgb(240, 225, 90);
+    padding-top:10px;
+    margin:1px;
+    padding-bottom:10px;
+    padding-left: 20px;
+    padding-right: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.wonder7{
+    font-style: oblique;
+    border: 30px solid #00f;
+    background-color: goldenrod;
+    padding-top:10px;
+    margin:2px;
+    padding-bottom:10px;
+    padding-left: 20px;
+    padding-right: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.intro {
+    color:indigo;
+}
+ #footer{
+     float :left;
+     color:rgb(153, 51, 110);
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 2em;
+     
+
+ }
+
+
+ 
